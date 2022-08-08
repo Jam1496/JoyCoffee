@@ -1,0 +1,42 @@
+body {
+    background-color: #cdb289;
+    text-align: center;
+    color: #462f1a;
+}
+
+.cabecalho p {
+    background-color: #cd853f;
+    color: beige;
+    margin-left: 28%;
+    margin-right: 28%;
+    margin-bottom: 0;
+    border-radius: 50px 50px 10px 10px;
+}
+
+#container {
+    border-radius: 50px;
+    background-color: #e1b675;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+#container h2 {
+    background-color: #c49162;
+    border-radius: 10px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+}
+
+#container hr {
+    background-color: #cdb289;
+    padding: 1px;
+}
+
+.rodape {
+    padding-top: 50px;
+}
+
+
