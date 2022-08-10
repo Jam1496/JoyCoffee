@@ -5,5 +5,4 @@
     Menu será acessado através de um QRcode, que será identificado por mesa, para que possa ser realizado o pedido após selecionar os itens desejados
 - Projeto ainda no incio, contribua para a evolução do meu primeiro projeto!
 
-Loading 10%||---------->
-
+Loading 20%
