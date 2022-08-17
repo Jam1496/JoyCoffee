@@ -1,8 +1,6 @@
 # JoyCoffee ☕️☕️
-🚀 Inspirado no projeto RocketCoffee da Maratona Explorer da Rocketset, realizado em Agosto/2022
-
+🚀 Inspirado no projeto RocketCoffee da Maratona Explorer
 - Menu Digital 
-    Menu será acessado através de um QRcode, que será identificado por mesa, para que possa ser realizado o pedido após selecionar os itens desejados
+   Cada mesa será identificada por QRcode, que dará acesso ao menu, após os itens serem selecionados é feito o pedido através de um formulário, que será recebido com a identificação da mesa pedinte.
 - Projeto ainda em contrução, contribua para a evolução do meu primeiro projeto!
 
-Loading 20%
